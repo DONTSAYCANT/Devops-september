@@ -1,0 +1,43 @@
+Devops course (6 months plan) 5 hours/week (weekend mostly)
+
+
+1.  CI/CD work flow Introduction (2 weeks)
+     Need for devops
+
+2. Linux commands for devops (1 week)
+  Basic commands
+  
+3. AWS for devops (1 week)
+    Introduction to ec2, VPC, boto3 and important services for devops 
+
+4. Git for devops (3 weeks)
+     Git command line (commands and flow)
+     Git GUI operations
+     Webhooks (integration with Jenkins)
+  
+5. Jenkins (3 weeks)
+    Jenkins parameters in detail 
+    Freestyle/pipeline jobs
+    Shared library introduction
+    Cron jobs
+    Manage Jenkins (admin)
+    
+6. Ansible (2 weeks)
+     Ansible command line 
+     Playbooks and important modules
+     
+7. Docker (2 weeks)
+     Docker introduction and need for docker
+     Docker images 
+     Docker registry
+     Docker volumes 
+     Docker swarm and compose
+     Best practices
+   
+8. Kubernetes (1 week)
+    Kubernetes introduction and basic commands 
+Pods, deployment, statefulset, daemon set, replicaset, services and other services with its understanding 
+
+9. Interview preparation and mock interview
+
+Expected course start date: September mid
