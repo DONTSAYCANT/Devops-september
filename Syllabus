@@ -21,6 +21,7 @@ Devops course (6 months plan) 5 hours/week (weekend mostly)
     Shared library introduction
     Cron jobs
     Manage Jenkins (admin)
+    (Manual run, Periodic build, web hooks/actions)
     
 6. Ansible (2 weeks)
      Ansible command line 
