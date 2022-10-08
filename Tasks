@@ -26,5 +26,39 @@ Create a Ec2 machine (linux machine), Login to machine (putty) and execute any f
    https://www.tutsmake.com/how-to-connect-to-ec2-instance-from-putty-and-ssh-terminal/
    https://it-infrastructure.solutions/spinning-up-your-first-ec2-instance-aws/
    
+ 
+===========================
+October 8
+===========================
+
+AWS:
+
+Create aws fre tier account
+Launch an ec2 free instance
+Install mobaxterm
+Login to ec2 machine through ssh client(mobaxterm) ===> ssh client connection
+Execute five linux command ===> cd ls chmod grep ps mkdir vim 10 commands
+exit from the system
+terminate the ec2 machine
+
+
+Github:
+
+create github account
+create a repo
+Upload aws task file in the repo
+
+
+
+
+
+
+
+
+
+
+
+
+   
    
 
