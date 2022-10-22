@@ -1,0 +1,93 @@
+=================
+Git
+=================
+
+
+What is git ===> Centralized distributed version control storage (VCS)
+
+perforce / svn ==> previous generation
+
+gerrit / gitlab / github / bitbucket / git ===> 
+
+Enterprise version / 
+
+git ===> command line or GUI 
+
+
+Devops engineers:  command line and GUI 
+
+Developers / Testers: Basic commands and GUI 
+
+
+Creating one repo:
+
+GUI:   Create repo, Create
+
+Command: git init
+
+
+Commit in GUI:
+
+	Add the file or upload the file 
+	Commit messgae
+	Commit 
+	
+Commit in command line:
+	git add .
+	git commit -m "message what"
+	git push
+
+
+Git stash: temperary storage of the code 
+
+Git branch: Copy of the code 
+
+Create a branch through github GUI 
+
+branch naming: 
+
+	Branch 
+	
+	devopsproj1_e5r46_hotfix
+
+Main branch or master branch ===> Production code or production engine code 
+
+Branching strategies in git:
+
+i) Development or enhancement 
+2) Hotfix branch 
+3) bug fix branch 
+4) QA branch deployment branch 
+
+Git commit id or SHA id : Unique id for a change
+							Git commit id
+							git commit messgae 
+							git commit 
+
+Git tag:
+          versioning or naming up to particular commits 
+
+
+Git architecture:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
