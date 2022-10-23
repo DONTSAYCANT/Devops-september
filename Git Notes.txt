@@ -23,6 +23,12 @@ Creating one repo:
 
 GUI:   Create repo, Create
 
+
+1) Create repo 
+2) Archive repo 
+3) Change the ownership
+4) change the visibility
+
 Command: git init
 
 
@@ -33,9 +39,12 @@ Commit in GUI:
 	Commit 
 	
 Commit in command line:
-	git add .
-	git commit -m "message what"
-	git push
+	git add .  ===> workspace to staging area
+	git commit -m "message what"   ===> stagin area to local repo 
+	git push  ===> local repo to remote repo
+	
+	
+	git clone ===> taking code from remote repo to local workspace 
 
 
 Git stash: temperary storage of the code 
@@ -68,8 +77,39 @@ Git tag:
           versioning or naming up to particular commits 
 
 
-Git architecture:
 
+
+Git architecture:  
+		
+		Local workspace  (Un recognised code)
+		Staging area     (Recognised code )
+		Local repo   
+		Remote repo    ===> Final stage 
+
+Git clone vs Git fork
+
+	git clone ===> remote repo  to local workspace 
+	git fork ====> Taking complete from one workspace to another 
+
+
+Git revert:
+
+	GUI: git revert option button 
+	Command line: git revert <commit id>
+
+
+Git cherrypick:
+	one particular commit from one branch to another branch 
+
+Pull request:
+	Syncing one branch to another branch (All commits)
+
+
+Git flow 
+
+Git actions or web hooks
+
+Git push vs Git pull 
 
 
 
