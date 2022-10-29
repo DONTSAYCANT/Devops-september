@@ -112,6 +112,46 @@ Git actions or web hooks
 Git push vs Git pull 
 
 
+=============
+commands:
+=============
+
+git clone <repo name>
+
+git log 
+
+git log -n2
+
+git branch 
+
+git remote -v
+
+
+push ===> local repo to remote repo 
+pull ===> remote repo to local repo to local workspace 
+fetch ===> remote repo to local repo
+merge ===> local repo to local workspace 
+
+pull ===> fetch + merge 
+
+
+ git status
+ 
+ git add <file name>  or git add .    (untracked to tracked or staging level)
+ 
+ 
+ 
+ Tracked stage (staging level) to untracked stage 
+ 
+ git restore --staged git
+ git reset <file name >
+ 
+ git commit -m "commit messgae"    ===> staging level to local repo 
+
+ git push    ===> local repo to remote repo 
+ 
+ 
+
 
 
 
