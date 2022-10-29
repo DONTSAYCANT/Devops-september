@@ -150,6 +150,14 @@ pull ===> fetch + merge
 
  git push    ===> local repo to remote repo 
  
+ git config --global user.name "DONTSAYCANT"
+ 
+ git config --global user.email "mynameisparthipan@gmail.com"
+ 
+ git commit -am "this will do both add and commit"
+ 
+ git init .
+
  
 
 
