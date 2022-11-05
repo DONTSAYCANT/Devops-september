@@ -158,7 +158,27 @@ pull ===> fetch + merge
  
  git init .
 
- 
+ git branch
+
+ git branch -a 
+
+
+git branch <new branch>   +   git checkout <new branch>    ==> git checkout -b <new_branch> 
+
+git branch -d / -D <branch name>
+
+
+==============>
+
+Git stash : https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+
+Git squash (Converting multiple commits to single commit ) : https://devopscounsel.com/git-squash-commits/
+
+Git pull  (git remote repo to git local workspace / git local repo ) vs Git push ( local repo to remote repo)===> 
+
+Git Merge vs Git Rebase   https://www.edureka.co/blog/git-rebase-vs-merge/
+
+Almost same ===> For taking your local changes to main branch or master branch  
 
 
 
