@@ -15,26 +15,37 @@ bitbucket
 Git squash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash
 
 
-
+===============
 Sudir: 
+===============
+Semiar 1:
 Vim vi editor in detail (shirt cuts, commands)  ===> Completed
+Seminar 2:
 Filezilla,cp,scp (file transfer tools (In details with examples  ===> Going on
 (15 mins)
-AWS CodeCommit
+Seminar3:
 Stash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+Semiar 4:
+AWS CodeCommit
 
-
+================
 Arpana 
-
+================
+Seminar 1:
 git, git bash, GitHub desktop and other git installation in detail  ===> Completed 
+
+Semiar 2:
 Git Branch protection rules, Git Branching strategy, Git Branch naming conventions, Git Branch cleanup
 
 
 
 Vinutha: 
 
-15 Linux commands in detail (after login to ec2 console or machine )  ===> completed
-gitlab
+Seminar1: 15 Linux commands in detail (after login to ec2 console or machine )  ===> completed
+
+Seminar 2: gitlab
+
+Semiar 3:
 git pull vs git push
 git fork vs git clone 
 git rebase vs git merge
@@ -42,6 +53,7 @@ git fetch vs git pull
 git stash vs git squash
 git status and git diff
 
+Semiar 4: Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
 
 
 
