@@ -12,7 +12,7 @@ Gokul:
 Explain in detail about  aws s3 (bucket creation, usage, permission and others in detail for 15 mins)
 Create AWS RDS machine and login to that (Execute five sql queries) (Use only free tier as much as possible)
 bitbucket
-Git squash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash
+Git squash: Squashing commits
 
 
 ===============
@@ -35,10 +35,10 @@ Seminar 1:
 git, git bash, GitHub desktop and other git installation in detail  ===> Completed 
 
 Semiar 2:
-Git Branch protection rules, Git Branching strategy, Git Branch naming conventions, Git Branch cleanup
+Git Branch protection rules, Git Branching strategy, Git Branch naming conventions, Git Branch cleanup, .gitigore, --amend (amending changes)
 
 Seminar 3:
-.gitigore, --amend (amending changes)
+Clone/pull/push/commit/branching from eclipse
 
 
 
@@ -56,7 +56,10 @@ git fetch vs git pull
 git stash vs git squash
 git status and git diff
 
-Semiar 4: Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
+Seminar 4: 
+Clone/pull/push/commit/branching from Visual Studio
+
+Semiar 5: Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
 
 
 
