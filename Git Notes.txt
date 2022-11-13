@@ -182,6 +182,42 @@ Almost same ===> For taking your local changes to main branch or master branch
 
 
 
+Git merge and Git rebase 
+
+Git squash    https://devopscounsel.com/git-squash-commits/  
+
+Git cherrypick ===> Not supported in github gui 
+
+Git hub desktop 
+======================
+
+1. Base branch 
+2. Select the commit and right click
+3. git cherrypick 
+4. slect the source branch 
+5. push 
+
+Command line 
+=====================
+
+After cloing 
+
+see the commit (git log)
+1. git cherry-pick <commit id> 
+2. git push
+
+https://www.git-tower.com/learn/git/faq/cherry-pick
+
+Git revert   https://git-scm.com/docs/git-revert
+
+
+Git pull request and conflict resolution
+
+Merge conflict 
+
+git reset and git push 
+
+
 
 
 
