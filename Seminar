@@ -33,7 +33,9 @@ Stash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash  ==> Com
 Seminar4: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git  (Merge conflict)
 https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
 
-Semiar 5: AWS CodeCommit
+Semiar 5: Jenkins installation
+
+Semiar 6: AWS CodeCommit
 
 ================
 Arpana 
@@ -65,7 +67,7 @@ git fetch vs git pull
 git stash vs git squash
 git status and git diff
 
-Seminar 4: 
+Seminar 4:    ===> (Completed)
 Clone/pull/push/commit/branching from Visual Studio
 
 Seminar 5:
