@@ -15,7 +15,7 @@ Create AWS RDS machine and login to that (Execute five sql queries) (Use only fr
 
 bitbucket
 
-Semiar 5: Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
+Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
 
 
 
@@ -30,8 +30,10 @@ Filezilla,cp,scp (file transfer tools (In details with examples  ===> Completed
 Seminar3:
 Stash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash  ==> Completed
 
-Semiar 4:
-AWS CodeCommit
+Seminar4: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git  (Merge conflict)
+https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
+
+Semiar 5: AWS CodeCommit
 
 ================
 Arpana 
@@ -47,8 +49,9 @@ Seminar 3:
 Clone/pull/push/commit/branching from eclipse ide
 
 
-
+=============
 Vinutha: 
+=============
 
 Seminar1: 15 Linux commands in detail (after login to ec2 console or machine )  ===> completed
 
@@ -67,6 +70,12 @@ Clone/pull/push/commit/branching from Visual Studio
 
 Seminar 5:
 JIRA ===> installation, create issue, create flow, scrum/kanban, permission, comment and others
+
+Seminar 6: 
+Micro services architecture:
+https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
+https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28
+https://medium.com/edureka/microservices-tutorial-with-example-a230413dfa13
 
 
 
