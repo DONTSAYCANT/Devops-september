@@ -17,6 +17,9 @@ bitbucket
 
 Aws IAM, availabilty zone vs AWS regions, AWS IAM roles and other concepts, AWS budgets and other cost saving services 
 
+https://www.simplilearn.com/tutorials/aws-tutorial/aws-s3
+https://towardsdatascience.com/how-to-upload-and-download-files-from-aws-s3-using-python-2022-4c9b787b15f2
+
 
 
 ===============
@@ -37,6 +40,9 @@ Semiar 5: Jenkins installation
 
 Semiar 6: AWS CodeCommit
 
+Seminar7: https://medium.com/@eric_landstein/using-python-to-store-data-in-mysql-on-aws-rds-77a524a0804d 
+https://www.geeksforgeeks.org/connect-mysql-database-using-mysql-connector-python/ (2-5 query)
+
 ================
 Arpana 
 ================
@@ -49,6 +55,8 @@ https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 Seminar 3:
 Clone/pull/push/commit/branching from eclipse ide
+
+Seminar4: https://www.geeksforgeeks.org/launching-aws-ec2-instance-using-python/ (And access ec2 through python) 
 
 
 =============
