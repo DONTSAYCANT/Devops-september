@@ -33,15 +33,18 @@ Filezilla,cp,scp (file transfer tools (In details with examples  ===> Completed
 Seminar3:
 Stash: https://www.atlassian.com/git/tutorials/saving-changes/git-stash  ==> Completed
 
-Seminar4: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git  (Merge conflict)
-https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/
+Semiar 4: Jenkins installation  ===> Completed
 
-Semiar 5: Jenkins installation
+Semiar 5: AWS CodeCommit  ====> Completed
 
-Semiar 6: AWS CodeCommit
+Seminar6: https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git  (Merge conflict)
+https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/  
 
 Seminar7: https://medium.com/@eric_landstein/using-python-to-store-data-in-mysql-on-aws-rds-77a524a0804d 
 https://www.geeksforgeeks.org/connect-mysql-database-using-mysql-connector-python/ (2-5 query)
+
+seminar8: Git interview question (20 questions)
+
 
 ================
 Arpana 
@@ -50,7 +53,8 @@ Seminar 1:
 git, git bash, GitHub desktop and other git installation in detail  ===> Completed 
 
 Semiar 2:
-Git Branch protection rules, Git Branching strategy, Git Branch naming conventions, Git Branch cleanup, .gitigore, --amend (amending changes)
+Git Branch protection rules, Git Branching strategy, Git Branch naming conventions, Git Branch cleanup, ===> Completed
+.gitigore, --amend (amending changes)
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 Seminar 3:
@@ -65,9 +69,9 @@ Vinutha:
 
 Seminar1: 15 Linux commands in detail (after login to ec2 console or machine )  ===> completed
 
-Seminar 2: gitlab
+Seminar 2: gitlab ===> completed
 
-Semiar 3:
+Semiar 3:  ===>
 git pull vs git push
 git fork vs git clone 
 git rebase vs git merge
@@ -78,10 +82,12 @@ git status and git diff
 Seminar 4:    ===> (Completed)
 Clone/pull/push/commit/branching from Visual Studio
 
-Seminar 5:
+Seminar 5: Git interview question (20 questions)
+
+Seminar 6:
 JIRA ===> installation, create issue, create flow, scrum/kanban, permission, comment and others
 
-Seminar 6: 
+Seminar 7: 
 Micro services architecture:
 https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
 https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28
