@@ -1,0 +1,10 @@
+=================
+Week1: 10-12-22 (ETA: 18/12/22 )
+=================
+
+Project1:
+
+Create a ec2 instance from aws
+Add that node in jenkins 
+Execute a script python script on master node (builtin node) and ec2 instance (Created in the previous step)
+CLone, commit, push a file with content "Hello world" in to a git repo (Automatically)
