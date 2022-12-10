@@ -47,7 +47,7 @@ https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-gui
 Seminar7: https://medium.com/@eric_landstein/using-python-to-store-data-in-mysql-on-aws-rds-77a524a0804d 
 https://www.geeksforgeeks.org/connect-mysql-database-using-mysql-connector-python/ (2-5 query)
 
-seminar8: Git interview question (20 questions)
+seminar8: Git interview question (20 questions) ====> Completed
 
 
 ================
@@ -66,7 +66,11 @@ Clone/pull/push/commit/branching from eclipse ide   ====> Completed
 
 Seminar4: https://www.geeksforgeeks.org/launching-aws-ec2-instance-using-python/ (And access ec2 through python) 
 
-Seminar5: Code coverage
+Seminar5: Manage plugins, 
+
+Seminar6: Manage nodes and cloud
+
+Seminar7: Code coverage
 
 
 =============
@@ -90,19 +94,15 @@ Clone/pull/push/commit/branching from Visual Studio
 
 Seminar 5: Git interview question (20 questions) ===> (Completed)
 
-Seminar 6:
+Seminar 6: Configure global security, security in jenkins
+
+Seminar 7:
 JIRA ===> installation, create issue, create flow, scrum/kanban, permission, comment and others
 
-Seminar 7: 
+Seminar 8: 
 Micro services architecture:
 https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9
 https://medium.com/swlh/microservices-architecture-from-a-to-z-7287da1c5d28
 https://medium.com/edureka/microservices-tutorial-with-example-a230413dfa13
-
-
-
-
-
-
 
 
