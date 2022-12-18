@@ -18,6 +18,7 @@ Project2:
 Create a linux ec2 machine and install jenkins on it
 Create a windows ec2 machine and install jenkins on it 
 
+
 Project3:
 
 Create a jenkins job and print environment variables of that job
@@ -28,9 +29,30 @@ scripted pipeline vs Declarative pipeline
 DSL in jenkins 
 
 
+================================
+Week 2 (18-12-22) Projects:
+================================
 
 
+1. Finish jenkins installation on linux and try to add ec2 machine
+https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 
+2. Create below jobs in freestyle, scripted, declarative pipeline way
+   2.1 Clone a repo
+   2.2 Print python and jdk version of the system
+   2.3 Try to execute a small python script using amazon ec2 linux machine
+   2.4 Try to print Jenkins URL (environment variable)
+   2.5 Configure your gmail in jenkins
+   2.6 Try to send main as postbuild actions (Success or failure)
 
+3. Study:
+    scripted pipeline vs Declarative pipeline
+    DSL in jenkins
+    Type of parameters in jenkins
+    types of Build section
+    types of post build
+    
+
+  
 
 
