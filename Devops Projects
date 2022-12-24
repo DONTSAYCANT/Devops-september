@@ -82,6 +82,28 @@ https://www.jenkins.io/doc/book/pipeline/shared-libraries/
 DSL
 
 
+==============================
+Jenkins and Git Main project
+==============================
+
+1. Create a repo with a python code in a branch called "Dev" 
+
+2. When ever a code push happened in this repo (Dev branch), it should do below things in jenkins jobs
+
+Make sure 2 ec2 machines added in to jenkins
+
+      stage1: checkout repo
+      stage2: check whether python installed on the machine
+      stage3: execute python script and check whether any error available or not (proceed to next stage only if no error)
+      stage4: identify number of lines in the code, number of functions in the code along with author name of the commit
+      stage5: merge changes from Dev branch to Prod branch
+      stage6: In case of failure ===>  send mail to person A  In case of success ===> send mail to person B  always ===> Teams notification or mail to Team C
+      
+
+
+
+
+
   
 
 
