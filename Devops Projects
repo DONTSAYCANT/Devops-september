@@ -57,6 +57,10 @@ https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
 Week 3 (24-12-22) Projects:
 ================================
 
+Priority tasks:
+   Add an ec2 machine in local jenkins (as a node) 
+   install jenkins in linux and windows ec2 machine and open through public ip or dns
+
 Project1:
       Send mail in scripted and declarative pipeline
       Blueocean plugin installation and usage
