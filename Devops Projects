@@ -60,17 +60,26 @@ Week 3 (24-12-22) Projects:
 Priority tasks:
    Add an ec2 machine in local jenkins (as a node) 
    install jenkins in linux and windows ec2 machine and open through public ip or dns
+   Executes the scripts and jobs available in 10 pages
+   7 pages + 1 page (https://www.jenkins.io/doc/pipeline/examples/)
 
 Project1:
       Send mail in scripted and declarative pipeline
       Blueocean plugin installation and usage
       Config manager plugin install it and usage
+      Create a boolean, a string, a choice parameter using free style, declarative and scripted pipeline 
+      Executing two stages in declarative pipline sequentially and parallely 
 
 Project2:
       Create multiple views and configure the views in jenkins dashboard 
 
 Project3:
 https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
+
+Study:
+
+https://www.jenkins.io/doc/book/pipeline/shared-libraries/
+DSL
 
 
   
