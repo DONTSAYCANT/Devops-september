@@ -53,6 +53,22 @@ https://www.jenkins.io/doc/tutorials/tutorial-for-installing-jenkins-on-AWS/
     types of post build
     
 
+================================
+Week 3 (24-12-22) Projects:
+================================
+
+Project1:
+      Send mail in scripted and declarative pipeline
+      Blueocean plugin installation and usage
+      Config manager plugin install it and usage
+
+Project2:
+      Create multiple views and configure the views in jenkins dashboard 
+
+Project3:
+https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
+
+
   
 
 
