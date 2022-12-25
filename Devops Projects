@@ -86,7 +86,7 @@ DSL
 Jenkins and Git Main project (ETA: Jan 9)
 ==============================
 
-1. Create a repo with a python code in a branch called "Dev" 
+1. Create a repo with a python code in a branch called "Dev" , "Prod"
 
 2. When ever a code push happened in this repo (Dev branch), it should do below things in jenkins jobs
 
