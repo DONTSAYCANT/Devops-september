@@ -86,6 +86,8 @@ DSL
 Jenkins and Git Main project (ETA: Jan 9)
 ==============================
 
+Both free style and declarative pipeline
+
 1. Create a repo with a python code in a branch called "Dev" , "Prod"
 
 2. When ever a code push happened in this repo (Dev branch), it should do below things in jenkins jobs
