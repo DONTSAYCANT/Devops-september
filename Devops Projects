@@ -76,10 +76,15 @@ Project2:
 Project3:
 https://www.blazemeter.com/blog/how-to-integrate-your-github-repository-to-your-jenkins-project
 
+Project4:
+Add 2 ec2 linux machine 
+take the backup through configuration as code plugin ===> taking backup of nodes
+
 Study:
 
 https://www.jenkins.io/doc/book/pipeline/shared-libraries/
 DSL
+
 
 
 ==============================
