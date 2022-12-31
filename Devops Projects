@@ -88,7 +88,7 @@ DSL
 
 
 ==============================
-Jenkins and Git Main project (ETA: Jan 9)
+Jenkins and Git Mini project (ETA: Jan 9)
 ==============================
 
 Both free style and declarative pipeline
@@ -107,6 +107,11 @@ Make sure 2 ec2 machines added in to jenkins
       stage6: In case of failure ===>  send mail to person A  In case of success ===> send mail to person B  always ===> Teams notification or mail to Team C
       
 
+==============================
+Jenkins/Git/Nexus/Slack/Sonar Main project  (ETA Jan 14)
+==============================
+
+https://github.com/rumeysakdogan/AWS_DevOps_Projects/tree/main/Project-5:%20CI%20Project%20with%20Jenkins%2C%20Nexus%2CSonarQube%20and%20Slack
 
 
 
