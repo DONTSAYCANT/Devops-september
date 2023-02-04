@@ -131,6 +131,18 @@ Jenkins tasks
 10-20 important plugins in jenkins
 
 
+===================================
+Feb 4
+===================================
+
+Install docker desktop
+Install docker on ec2 machine https://docs.docker.com/desktop/install/ubuntu/
+Install Virtual box 
+Create hub.docker.com account
+Read about https://www.tutorialspoint.com/docker/docker_public_repositories.htm  (virtualisation vs containers, docker image, docker file, container, image, architecture, some commands)
+
+
+
 
 
    
