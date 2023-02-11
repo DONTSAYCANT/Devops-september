@@ -1,0 +1,18 @@
+
+docker pull hello-world:latest   ===> docker pull hello-world
+
+
+docker pull hello-world:nanoserver-ltsc2022
+
+docker pull hello-world:nanoserver-1809
+
+
+Docker File ===> Set of instructions to execute
+
+Docker image ===> Built output of docker file  (Single image should be there but can have mutilple flavours)
+
+Docker container  ===> Running instance of a docker image (Multiple containers can run from single image)
+
+
+               Build                  run/create 
+Docker file   ======>   Docker Image   ======> Docker container
