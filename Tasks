@@ -154,6 +154,14 @@ https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5
 https://docs.docker.com/engine/reference/commandline/docker/
 
 
+execute 30 + docker commands https://dockerlabs.collabnix.com/docker/cheatsheet/
+Try to docerize one java application, one python application, one nginx/nodejs application
+   1. Create docker file for your application (download application from google)
+   2. Build the image with tage
+   3. Upload the image inside docker hub
+   4. Share the image in group
+
+
 
 
 
