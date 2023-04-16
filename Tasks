@@ -163,6 +163,40 @@ Try to docerize one java application, one python application, one nginx/nodejs a
 
 
 
+Kubernetes tasks:
+
+1. 150 commands 
+
+Try to ececute it both ways (through imperative and declarative)
+
+2. Pod creation 
+3. replica set and deployment ==> difference, create, update image, delete deployment
+4. etcd backup and restore
+5. static pod creation
+6. mutli container pod
+7. kubectl version upgrade 
+8. secrets 
+9. config maps
+10. pv and pvc 
+11. namespace
+
+
+
+Service clusterip, Nodeport and load balancers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
